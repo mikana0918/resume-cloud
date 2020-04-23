@@ -20,7 +20,6 @@ jobs:
         FTP_SERVER: ${{ secrets.FTP_SERVER }}     # FTPサーバーのURLを設定
         FTP_USERNAME: ${{ secrets.FTP_USERNAME }} # FTPのユーザー名を設定
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }} # FTPのパスワードを設定
-        LOCAL_DIR: dist                           # どのディレクトリのデータをアップロードするか
         REMOTE_DIR: /home/rwzyscpo/public_html/resume-cloud.work # リモートのどのディレクトリにアップロードするか
         ARGS: --delete
         # --delete arg will delete files on the server if you've deleted them in git
