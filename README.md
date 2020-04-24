@@ -1,6 +1,6 @@
 ## URL
-prd: https://resume-cloud.work
-dev: coming soon
+prd: https://resume-cloud.work  
+dev: coming soon  
 
 ## resume mangement software  
 - ポートフォリオというか自分が欲しかったので。  
@@ -15,6 +15,6 @@ mixhostオンプレ環境への自動デプロイ(FTP)
 ## development environment
 bitnamiのcodeigniter向けコンテナイメージをどうぞ  
 
-$ mkdir ~/myapp && cd ~/myapp
-$ curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-codeigniter/master/docker-compose.yml
-$ docker-compose up
+$ mkdir ~/myapp && cd ~/myapp  
+$ curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-codeigniter/master/docker-compose.yml  
+$ docker-compose up  
