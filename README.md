@@ -7,7 +7,8 @@ dev: coming soon
 - フリーランサー向けの履歴書・職務経歴書・ポートフォリオ管理サービス  
 
 ## stacks
-PHP(Codeigniter)/JavaScript(jQuery)
+Backend/Frontend: PHP(Codeigniter)/JavaScript(jQuery)  
+DB: MySQL  
 
 ## CI/CD
 mixhostオンプレ環境への自動デプロイ(FTP)
