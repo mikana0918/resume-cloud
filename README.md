@@ -8,4 +8,9 @@ PHP(Codeigniter)/JavaScript(jQuery)
 ## CI/CD
 mixhostオンプレ環境への自動デプロイ(FTP)
 
+## development environment
+bitnamiのcodeigniter向けコンテナイメージをどうぞ  
 
+$ mkdir ~/myapp && cd ~/myapp
+$ curl -LO https://raw.githubusercontent.com/bitnami/bitnami-docker-codeigniter/master/docker-compose.yml
+$ docker-compose up
